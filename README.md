@@ -1,5 +1,5 @@
 # Sprites
-This repository hosts all the files for our logos.
+This repository hosts all the open-source files for our logos.
 
 ## License
 All the files in this repository are protected by the [Creative Commons Attribution 4.0 International License.](https://github.com/SynthLauncher/Sprites/blob/main/LICENSE.txt)
