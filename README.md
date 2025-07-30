@@ -12,5 +12,5 @@ What this means is that the SynthLauncher logo and all the images on this reposi
 *Us, ours, and we, in this context, refer to SynthLauncher Org.
 
 ## Credits
-Drawn by [AquaCobalt](https://github.com/AquaCobalt)
+Drawn by [AquaCobalt](https://github.com/AquaCobalt) \
 Drawn using [Inkscape](https://inkscape.org/)
