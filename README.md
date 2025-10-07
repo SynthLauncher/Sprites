@@ -11,6 +11,8 @@ What this means is that all content on this repository, including the SynthLaunc
 
 *Us, ours, and we, in this context, refer to SynthLauncher Org.
 
+Copyright 
 ## Credits
 Drawn by [AquaCobalt](https://github.com/AquaCobalt) \
 Drawn using [Inkscape](https://inkscape.org/)
+© 2025 Methuja Ganewattha. Published under SynthLauncher Org.
