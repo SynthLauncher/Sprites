@@ -14,5 +14,5 @@ What this means is that all content on this repository, including the SynthLaunc
 Copyright 
 ## Credits
 Drawn by [AquaCobalt](https://github.com/AquaCobalt) \
-Drawn using [Inkscape](https://inkscape.org/)
+Drawn using [Inkscape](https://inkscape.org/) \
 © 2025 Methuja Ganewattha. Published under SynthLauncher Org.
